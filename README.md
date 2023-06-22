@@ -19,13 +19,13 @@ Inspired by [phosphor-react](https://github.com/phosphor-icons/phosphor-react).
 ## Installation
 
 ```bash
-yarn add phosphor-react-native
+yarn add @adriano-rodrigues99/phosphor-react-native
 ```
 
 or
 
 ```bash
-npm install --save phosphor-react-native
+npm install --save @adriano-rodrigues99/phosphor-react-native
 ```
 
 ## Usage
@@ -35,7 +35,7 @@ Simply import the icons you need, and add them anywhere in your render method. P
 ```tsx
 import React from 'react';
 import { View } from 'react-native';
-import { Horse, Heart, Cube } from 'phosphor-react-native';
+import { Horse, Heart, Cube } from '@adriano-rodrigues99/phosphor-react-native';
 
 const App = () => {
   return (
@@ -64,7 +64,7 @@ Phosphor takes advantage of React Context to make applying a default style to al
 ```tsx
 import React from 'react';
 import { View } from 'react-native';
-import { IconContext, Horse, Heart, Cube } from 'phosphor-react-native';
+import { IconContext, Horse, Heart, Cube } from '@adriano-rodrigues99/phosphor-react-native';
 
 const App = () => {
   return (
@@ -92,7 +92,7 @@ You may create multiple Contexts for styling icons differently in separate regio
 You may wish to import all icons at once for use in your project, though depending on your bundler this could prevent tree-shaking and make your app's bundle larger.
 
 ```tsx
-import * as Icon from "phosphor-react-native";
+import * as Icon from "@adriano-rodrigues99/phosphor-react-native";
 ...
 <Icon.Smiley />
 <Icon.Folder weight="thin" />
