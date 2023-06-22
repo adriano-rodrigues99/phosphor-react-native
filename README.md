@@ -1,3 +1,7 @@
+### This project is a fork from [phosphor-react-native](https://github.com/duongdev/phosphor-react-native)
+
+
+
 <img src="/meta/phosphor-mark-tight-yellow.png" width="128" align="right" />
 
 # phosphor-react-native
@@ -102,6 +106,7 @@ import * as Icon from "@adriano-rodrigues99/phosphor-react-native";
 
 ## Related Projects
 
+- [phosphor-react-native](https://github.com/duongdev/phosphor-react-native) ▲ Phosphor React Native official repository
 - [phosphor-home](https://github.com/phosphor-icons/phosphor-home) ▲ Phosphor homepage and general info
 - [phosphor-react](https://github.com/phosphor-icons/phosphor-react) ▲ Phosphor icon component library for React
 - [phosphor-vue](https://github.com/phosphor-icons/phosphor-vue) ▲ Phosphor icon component library for Vue
