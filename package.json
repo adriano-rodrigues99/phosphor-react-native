@@ -38,13 +38,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/duongdev/phosphor-react-native",
-  "author": "Dustin Do <dustin.do95@gmail.com> (https://github.com/duongdev)",
+  "repository": "https://github.com/adriano-rodrigues99/phosphor-react-native",
+  "author": "Adriano Rodrigues <adrianoftz1999@gmail.com> (https://github.com/adriano-rodrigues99)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/duongdev/phosphor-react-native/issues"
+    "url": "https://github.com/adriano-rodrigues99/phosphor-react-native/issues"
   },
-  "homepage": "https://github.com/duongdev/phosphor-react-native#readme",
+  "homepage": "https://github.com/adriano-rodrigues99/phosphor-react-native#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
